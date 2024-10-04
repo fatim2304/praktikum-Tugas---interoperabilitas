@@ -1,23 +1,25 @@
 praktikum ( 1/10/2024)
 
 test.php
-![test](https://github.com/user-attachments/assets/08c292fd-f046-4658-8f8c-843eddf81235)
+![test](https://github.com/user-attachments/assets/5a2e7783-998a-4864-bfd3-68fdb3240d6f)
+
 tarikdata.php
-![tarik data](https://github.com/user-attachments/assets/96ec7ba7-834c-487f-9a4a-9ef26b497b26)
+![tarik data](https://github.com/user-attachments/assets/5d589da1-c7a5-48a7-b98a-98baa24ca5ac)
 
 Tugas (Materi Praktikum 2-3)
 
 get.php
 get Request Digunakan untuk mengambil data dari server
-![get](https://github.com/user-attachments/assets/b247f61b-ca16-4c04-b337-00a6a5203c3c)
+![Get](https://github.com/user-attachments/assets/a42e0109-abb6-4444-8a30-0f0c076e6e51)
 
 Post.php
 Post Request digunakan untuk mengirim data ke server
-![post](https://github.com/user-attachments/assets/7c1756ca-07e9-455d-8420-751f6bb24f78)
+![Post](https://github.com/user-attachments/assets/a65c537b-414c-4a54-b42a-efc1cd6fbb9f)
 
 Delete.php
 delete digunakan ketika  ingin menghapus data atau objek tertentu dari server
-![hapus](https://github.com/user-attachments/assets/74987fa6-ecfb-48f9-aa1a-5da4f1fba3a6)
+![hapus](https://github.com/user-attachments/assets/2263b4c1-1c41-4be8-9f2b-7f15f8ded3bb)
+
 
 PERBEDAAN ANTARA GET , POST DAN DELETE
 1. GET : Digunakan untuk mengambil data dari server.

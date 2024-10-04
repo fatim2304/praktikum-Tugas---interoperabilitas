@@ -24,9 +24,8 @@ delete digunakan ketika  ingin menghapus data atau objek tertentu dari server
 PERBEDAAN ANTARA GET , POST DAN DELETE
 1. GET : Digunakan untuk mengambil data dari server.
    Skenario: Mencari Pengguna berdasarkan username yaitu mendapatkan informasi pengguna dengan username.
-2. POST : Digunkan ketika ingin membuat data baru / memperbarui data yang sudah ada
+3. POST : Digunkan ketika ingin membuat data baru / memperbarui data yang sudah ada
    Skenario:ketika admin ingin ingin mengisi data pengguna/ mengubah  data pengguna, kemudian sistem akan mengirim permintaan POST ke server untuk  menambahkan/ mengubah data.
-3. DELETE : Digunakan ketika ingin menghapus data yang sudah ada
-   skenario : ketika admin ingin menghapus data yang sudah ada, dan kemudian     
-   menekan tombol"Hapus", setelah itu mengirim permintaan "delete" untuk menghapus 
+4. DELETE : Digunakan ketika ingin menghapus data yang sudah ada
+   skenario : ketika admin ingin menghapus data yang sudah ada, dan kemudian  menekan tombol"Hapus", setelah itu mengirim permintaan "delete" untuk menghapus 
    pengguna yang dipilih.
